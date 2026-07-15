@@ -1,0 +1,9 @@
+{
+    "version": "0.14b",
+    "settings": {
+        "theme": "light",
+        "API_KEY": "",
+        "default_stream_addr": "",
+        "prompt": ""
+    } 
+}
