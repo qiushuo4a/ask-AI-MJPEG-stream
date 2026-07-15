@@ -168,3 +168,4 @@ build/
 #other
 ScreenStream - v4.2.7.apk
 src/test/
+.vscode/
